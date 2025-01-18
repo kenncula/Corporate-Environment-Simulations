@@ -1,5 +1,6 @@
 # Corporate Organizational Gender Makeup Simulation
 
+## Abstract
 This study examines how recruiting and promotion decisions within businesses are impacted by
 seniority and homophily. By examining these relationships, the research seeks to shed light on the
 ways in which systemic organizational policies and identity-based biases interact to affect efficiency
@@ -43,3 +44,33 @@ disparities, especially in settings with low turnover. These findings underscore
 addressing inherent biases to achieve more equitable promotion processes. Interestingly, simulations
 combining seniority, homophily, and inherent bias revealed complex interactions, where the interplay
 of these factors could either mitigate or exacerbate disparities depending on their relative weights.
+
+The report also conducted sensitivity analyses to validate the robustness of its findings. Adjusting
+parameters such as seniority weightings and homophily scores revealed consistent patterns, affirm-
+ing the validity of the models. For example, increasing seniority weighting consistently reduced
+randomness, while higher homophily scores skewed outcomes toward similarity-based preferences.
+These analyses highlight the importance of balancing these factors to achieve desired organizational
+outcomes.
+
+The implications of these findings are significant for both theoretical exploration and practical
+application. From a policy design perspective, the results suggest that interventions such as threshold
+policies, like the Rooney Rule, could mitigate the adverse effects of homophily while preserving the
+benefits of seniority-based decisions. Such policies could ensure a baseline level of diversity in hiring
+and promotions without compromising efficiency. Additionally, the study highlights the need for
+organizations to carefully calibrate their promotion criteria to balance equity and productivity. For
+example, organizations might consider dynamic bias weights or external hiring policies to counteract
+the effects of homophily and bias.
+
+Looking ahead, there are several avenues for further research and practical application. Future
+simulations could explore scenarios with dynamic bias parameters, where weights change over
+time based on organizational interventions or external influences. Similarly, investigating the long-
+term effects of external hiring policies on diversity and equity could provide valuable insights.
+Practically speaking, companies might use these models to assess the effects of proposed policies
+before implementation, enabling them to make informed choices that support their objectives for
+equity and diversity.
+
+This report’s conclusion emphasizes how intricately personal prejudices and systemic regulations in-
+teract to influence hiring and promotion decisions. By integrating factors such as seniority, homophily,
+and inherent bias into its models, the study provides a comprehensive framework for understanding
+these dynamics. The findings offer actionable insights for organizations seeking to balance equity,
+diversity, and efficiency, paving the way for more inclusive and effective promotion practices
